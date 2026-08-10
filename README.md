@@ -81,10 +81,14 @@ Simply type the letter combinations below in normal sequence. The keyboard layou
 
 ## 📥 Installation on macOS
 
+Download the latest files [here](https://github.com/vpnry/macos-pali-keyboard/archive/refs/heads/main.zip)
+
+After downloading, unzip the file. You now have two options to continue:
+
 ### Option A: Manual Installation via Finder (No Terminal Required)
 
 1. **Copy the layout files**:
-   - In Finder, open the folder containing the downloaded files.
+   - In MacOS Finder app, open the folder containing the downloaded files.
    - Select both **`PaliVelthuis.keylayout`** and **`PaliVelthuis.icns`**.
    - Copy them by pressing `Command (⌘) + C` (or right-click $\rightarrow$ **Copy**).
 
@@ -112,7 +116,7 @@ Simply type the letter combinations below in normal sequence. The keyboard layou
 
 ---
 
-### Option B: Terminal Command (Advanced Users)
+### Option B: Terminal Command (Advanced / Dev Users)
 
 If you prefer using Terminal, run:
 ```bash
